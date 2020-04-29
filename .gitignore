@@ -11,3 +11,4 @@ example_multi_connect/bin/
 example_pointcloud/bin/
 example_tracker/bin/
 libs/amd64/release/bin/dnn_model_2_0.onnx
+**/obj
