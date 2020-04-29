@@ -1,2 +1,11 @@
 example/bin/example_debug.lib
 example/bin/example.lib
+
+
+**/obj
+
+**.sln
+**.exp
+**.vcxproj
+**.vcxproj.filters
+**icon.rc
